@@ -25,4 +25,4 @@ A transformed power supply is a device that converts high voltage, low current A
   7. Test the transformed power supply to ensure it is supplying the correct voltage and current to the connected device.
 
   # Block Diagram
-  ![Block_Diagram](Block-diagram.jpg)
+  ![My Image](..Images/Block-diagram.png)
