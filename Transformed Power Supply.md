@@ -54,11 +54,14 @@ A transformed power supply is a device that converts high voltage, low current A
 
   7. Test the transformed power supply to ensure it is supplying the correct voltage and current to the connected device.
 
-  # Block Diagram
+  ## Block Diagram
   ![My Image](/Images/Block-diagram.png)
   
-  # Circuit Diagram
+  ## Circuit Diagram
   ![My Circuit](/Images/Crcuit-diagram.png)
   
-  #Results
+  ## Results
   ![My Results](/Images/Results.png)
+  
+  ## Conclusion
+  Losses due to resistance of wire and temperature affects the semiconductor breakdown voltage which makes the expected value is not equal to practical value.
