@@ -58,4 +58,4 @@ A transformed power supply is a device that converts high voltage, low current A
   ![My Image](/Images/Block-diagram.png)
   
   # Circuit Diagram
-  ![My Image](/Images/Circuit-diagram.png)
+  ![My Circuit](/Images/Circuit-diagram.png)
